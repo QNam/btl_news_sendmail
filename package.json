@@ -1,7 +1,7 @@
 {
-  "name": "sanve_api",
+  "name": "btl_news_sendmail",
   "version": "1.0.0",
-  "description": "api sàn vé",
+  "description": "btl_news_sendmail",
   "main": "index.js",
   "dependencies": {
     "@hapi/joi": "^15.1.0",
